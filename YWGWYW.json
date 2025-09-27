@@ -1,0 +1,39 @@
+{
+    "manifest": {
+        "author": "twixxty",
+        "name": "YWGWYW",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/YWGWYW\/refs\/heads\/main\/YWGWYW.json"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/twixxty\/YWGWYW\/refs\/heads\/main\/image.jpg",
+        "overlay_alpha": 80,
+        "blur_radius": 25
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/JetBrains\/JetBrainsMono\/raw\/refs\/heads\/master\/fonts\/ttf\/JetBrainsMono-ExtraBoldItalic.ttf",
+        "ginto_medium": "https:\/\/github.com\/JetBrains\/JetBrainsMono\/raw\/refs\/heads\/master\/fonts\/ttf\/JetBrainsMono-Medium.ttf",
+        "ginto_regular": "https:\/\/github.com\/JetBrains\/JetBrainsMono\/raw\/refs\/heads\/master\/fonts\/ttf\/JetBrainsMono-Regular.ttf",
+        "sourcecodepro_semibold": "https:\/\/github.com\/JetBrains\/JetBrainsMono\/raw\/refs\/heads\/master\/fonts\/ttf\/JetBrainsMono-Regular.ttf",
+        "whitney_semibold": "https:\/\/github.com\/JetBrains\/JetBrainsMono\/raw\/refs\/heads\/master\/fonts\/ttf\/JetBrainsMono-SemiBold.ttf",
+        "whitney_medium": "https:\/\/github.com\/JetBrains\/JetBrainsMono\/raw\/refs\/heads\/master\/fonts\/ttf\/JetBrainsMono-Medium.ttf",
+        "whitney_bold": "https:\/\/github.com\/JetBrains\/JetBrainsMono\/raw\/refs\/heads\/master\/fonts\/ttf\/JetBrainsMono-Bold.ttf"
+    },
+    "simple_colors": {
+        "background": -13816531,
+        "background_secondary": -14145496,
+        "accent": -5517392,
+        "mention_highlight": 854121389,
+        "active_channel": -10134186,
+        "statusbar": 0,
+        "input_background": -13027015
+    },
+    "colors": {
+        "primary_dark_200": -1320014,
+        "uikit_btn_bg_color_selector_red": -3398627,
+        "primary_dark_360": -1320014,
+        "white_800": -14145496
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
